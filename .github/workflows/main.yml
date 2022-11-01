@@ -1,4 +1,4 @@
-name: Windows-RDP
+name: Windows-baru
 
 on: workflow_dispatch
 
